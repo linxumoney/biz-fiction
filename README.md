@@ -100,3 +100,8 @@ MIT License with Attribution — 可自由使用修改，须注明原作者：Li
 |------|------|
 | 中本聪 · 消失 | [examples/nakamoto.md](examples/nakamoto.md) |
 | 埃隆·马斯克 · 那条推文 | [examples/musk.md](examples/musk.md) |
+
+## 商业授权
+
+个人学习、研究、测试和非商业使用可以。商业使用请先联系 **linxu.money@gmail.com** 获得授权，详见 [COMMERCIAL-LICENSING.md](COMMERCIAL-LICENSING.md)。
+
